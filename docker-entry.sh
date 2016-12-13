@@ -29,7 +29,7 @@ done
 sleep 1
 
 echo "Starting platform"
-cd /mattermost/bin
+cd /mm/mattermost/bin
 ./platform $*
 
 
